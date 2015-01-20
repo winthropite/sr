@@ -1,0 +1,17 @@
+$document(Updated Content Directory,Email_Header_Nav.txt)$ 
+
+--------------------------------------------
+
+<!-- CONTENT -->
+
+--------------------------------------------
+
+<!-- NEW DISCLAIMERS -->
+
+--------------------------------------------
+
+$document(Updated Content Directory,Email_Social_Nav.txt)$ 
+
+--------------------------------------------
+
+$document(Updated Content Directory,Email_FooterDisclaimer.txt)$
